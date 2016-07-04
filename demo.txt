@@ -1,0 +1,13 @@
+git init
+git config user.name "someone"
+git config user.email "someone@someplace.com"
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/xieruyi/test2.git
+(git remote add origin git@github.com:xieruyi/test2.git)
+git push -u origin master
+
+…˙≥…√‹‘ø£∫
+ssh-keygen -t rsa -C "” œ‰"
+
+git commit -am "first commit"
