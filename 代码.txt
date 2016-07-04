@@ -7,5 +7,5 @@ git remote add origin https://github.com/xieruyi/test2.git
 (git remote add origin git@github.com:xieruyi/test2.git)
 git push -u origin master
 
-Éú³ÉÃÜÔ¿£º
-ssh-keygen -t rsa -C "ÓÊÏä"
+ç”Ÿæˆç§˜é’¥
+ssh-keygen -t rsa -C "é‚®ç®±"
